@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@notifee/react-native": "^5.7.0",
+    "@react-native-async-storage/async-storage": "^1.17.11",
     "@react-navigation/native": "^6.0.12",
     "axios": "^0.27.2",
     "native-base": "^3.4.13",
@@ -21,7 +22,10 @@
     "react-native-screens": "^3.17.0",
     "react-native-svg": "12.1.1",
     "react-native-vector-icons": "^9.2.0",
-    "react-native-web": "0.17.1"
+    "react-native-web": "0.17.1",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "redux-persist": "5.10.0"
   },
   "devDependencies": {
     "@babel/core": "7.18.13",
